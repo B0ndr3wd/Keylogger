@@ -10,6 +10,7 @@ Download ZIP or :
 git clone https://github.com/B0ndr3wd/Keylogger.git
 cd Keylogger
 ```
-Now get the keyboard module :
+Now get the keyboard module and start it :
 ```bash
 pip install keyboard
+python3 Keylogger.py
